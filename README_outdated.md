@@ -1,3 +1,5 @@
+Please note, these docs are outdated.
+
 ### HashDit Smart Contract Security API 
 
 1. Introduction
